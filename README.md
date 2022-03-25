@@ -3,12 +3,12 @@
 I'm Anupama. Front-end developer.
 
 
-![Visitor Count](https://profile-counter.glitch.me/developerTech/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/anupama-prabhu/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=developerTech&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=anupama-prabhu&column=7"/>
   </a>
 </div>
 
