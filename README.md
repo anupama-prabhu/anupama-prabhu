@@ -3,6 +3,7 @@
 I'm Anupama. I am a information technology entusiast with background in RDBMS technologies, Front-end development and off-the-shelf communications applications.
 
 •	Trained in database technologies and SQL. Knowledgeable in building SQL queries on PostgreSQL.
+• Understanding of email campaign execution processes in Saleforce Marketing Cloud
 •	Worked as Frontend developer and having exposure to building responsive web components using HTML/CSS/Bootstrap/JavaScript/ReactJS
 •	Knowledgeable in Github source control and Visual Studio Code IDE.
 •	Deployed projects on Heroku and AWS Amplify.
