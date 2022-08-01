@@ -1,6 +1,6 @@
-### Hi Developers 👋
+### Hi fellow developers 👋
 
-I'm Anupama. I am a information technology entusiast with background in RDBMS technologies, Front-end development and off-the-shelf communications applications.
+This is Anupama. I am a information technology entusiast with background in RDBMS technologies, Front-end development and off-the-shelf communications applications.
 
 •	Trained in database technologies and SQL. Knowledgeable in building SQL queries on PostgreSQL.
 • Understanding of email campaign execution processes in Saleforce Marketing Cloud
