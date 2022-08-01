@@ -1,6 +1,14 @@
 ### Hi Developers 👋
 
-I'm Anupama. Front-end developer.
+I'm Anupama. I am a information technology entusiast with background in RDBMS technologies, Front-end development and off-the-shelf communications applications.
+
+•	Trained in database technologies and SQL. Knowledgeable in building SQL queries on PostgreSQL.
+•	Worked as Frontend developer and having exposure to building responsive web components using HTML/CSS/Bootstrap/JavaScript/ReactJS
+•	Knowledgeable in Github source control and Visual Studio Code IDE.
+•	Deployed projects on Heroku and AWS Amplify.
+•	Exposure to concepts of NoSQL database (MongoDB)
+•	Underwent formal training in information technology Quality assurance processes.
+• Well versed in agile development methodologies (SAFe5).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/anupama-prabhu/count.svg)
