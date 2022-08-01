@@ -11,6 +11,7 @@ I'm Anupama. I am a information technology entusiast with background in RDBMS te
 •	Underwent formal training in information technology Quality assurance processes.
 • Well versed in agile development methodologies (SAFe5).
 
+I have a bachelors degree in Computer Science, Mathematics and Statstics from [Mangalore University](https://mangaloreuniversity.ac.in/).
 
 ![Visitor Count](https://profile-counter.glitch.me/anupama-prabhu/count.svg)
 
