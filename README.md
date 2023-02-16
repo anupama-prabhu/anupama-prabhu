@@ -1,14 +1,13 @@
 ### Hi fellow developers 👋
 
-This is Anupama. I am a information technology entusiast with background in RDBMS technologies, Front-end development and off-the-shelf communications applications.
+This is Anupama. I am a information technology entusiast with background in Quality assurance, RDBMS technologies and Front-end development
 
+•	Underwent formal training in information technology Quality assurance processes.
 •	Trained in database technologies and SQL. Knowledgeable in building SQL queries on PostgreSQL.
-• Understanding of email campaign execution processes in Saleforce Marketing Cloud
 •	Worked as Frontend developer and having exposure to building responsive web components using HTML/CSS/Bootstrap/JavaScript/ReactJS
 •	Knowledgeable in Github source control and Visual Studio Code IDE.
 •	Deployed projects on Heroku and AWS Amplify.
 •	Exposure to concepts of NoSQL database (MongoDB)
-•	Underwent formal training in information technology Quality assurance processes.
 • Well versed in agile development methodologies (SAFe5).
 
 I have a bachelors degree in Computer Science, Mathematics and Statstics from [Mangalore University](https://mangaloreuniversity.ac.in/).
